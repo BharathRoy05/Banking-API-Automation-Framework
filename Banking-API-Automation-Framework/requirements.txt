@@ -1,0 +1,7 @@
+allure-pytest==2.14.3
+Faker==25.9.2
+Flask==3.0.3
+jsonschema==4.22.0
+pytest==8.2.2
+pytest-html==4.1.1
+requests==2.32.3
