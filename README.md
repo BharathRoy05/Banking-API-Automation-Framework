@@ -223,10 +223,3 @@ john.doe / SecurePass123!
 jane.smith / SecurePass456!
 ```
 
-## Resume Talking Points
-
-- Built a scalable API automation framework for banking workflows.
-- Implemented reusable API service objects and centralized request handling.
-- Added Allure reporting, contract validation, response dumps, logging, and data-driven testing.
-- Created a local mock banking API to support reliable CI execution without third-party services.
-- Covered positive, negative, and edge scenarios across authentication, accounts, beneficiaries, transfers, and transactions.
