@@ -1,0 +1,9 @@
+2026-06-23 18:52:11 | INFO     | RequestHelper | POST http://127.0.0.1:5001/auth/login
+2026-06-23 18:52:11 | INFO     | RequestHelper | Request payload: {'username': 'john.doe', 'password': 'SecurePass123!'}
+2026-06-23 18:52:11 | INFO     | RequestHelper | Response status: 200
+2026-06-23 18:52:11 | INFO     | RequestHelper | Response body: {"customer":{"customer_id":"CUST-1001","name":"John Doe","username":"john.doe"},"expires_in":3600,"token":"mock-token-343263a8947e4bcfbd57f34f75f7c202","token_type":"Bearer"}
+
+2026-06-23 18:52:11 | INFO     | RequestHelper | GET http://127.0.0.1:5001/beneficiaries
+2026-06-23 18:52:11 | INFO     | RequestHelper | Response status: 200
+2026-06-23 18:52:11 | INFO     | RequestHelper | Response body: {"beneficiaries":[{"account_number":"999900001111","bank_name":"Demo Federal Bank","beneficiary_id":"BEN-1001","created_at":"2026-06-23T13:22:11.535822+00:00","ifsc":"BANK01234","name":"Jane Smith","nickname":"jane"}]}
+

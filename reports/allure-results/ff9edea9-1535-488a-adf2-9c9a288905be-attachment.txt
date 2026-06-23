@@ -1,0 +1,3 @@
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:41:28] "POST /test/reset HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:41:28] "POST /auth/login HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:41:28] "GET /accounts/ACC-1001/balance HTTP/1.1" 200 -

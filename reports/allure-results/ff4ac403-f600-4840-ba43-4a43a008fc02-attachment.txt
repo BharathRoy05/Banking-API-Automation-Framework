@@ -1,0 +1,4 @@
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:31:03] "POST /test/reset HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:31:03] "POST /auth/login HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:31:03] "[35m[1mPOST /beneficiaries HTTP/1.1[0m" 201 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:31:03] "DELETE /beneficiaries/BEN-85A2992B HTTP/1.1" 200 -

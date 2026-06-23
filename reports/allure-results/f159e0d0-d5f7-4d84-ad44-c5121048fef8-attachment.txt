@@ -1,0 +1,4 @@
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:30:32] "GET /health HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:30:32] "POST /test/reset HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:30:32] "POST /auth/login HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:30:32] "GET /accounts/ACC-1001 HTTP/1.1" 200 -

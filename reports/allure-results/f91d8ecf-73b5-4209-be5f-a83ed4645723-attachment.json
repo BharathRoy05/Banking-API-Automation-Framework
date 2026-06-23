@@ -1,0 +1,1 @@
+{"balance":7445.75,"message":"transfer successful","transaction":{"account_id":"ACC-1001","amount":55.0,"created_at":"2026-06-23T14:01:04.811999+00:00","currency":"USD","description":"Automation transfer 3894","status":"SUCCESS","transaction_id":"TXN-DAF82E538F","type":"DEBIT"}}

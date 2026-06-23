@@ -1,0 +1,7 @@
+{
+  "from_account_id": "ACC-1001",
+  "to_account_number": "999900001111",
+  "amount": 55.0,
+  "currency": "USD",
+  "remarks": "Automation transfer 5201"
+}

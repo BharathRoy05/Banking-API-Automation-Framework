@@ -1,0 +1,1 @@
+{"error":"missing required fields","fields":["bank_name","account_number","ifsc","nickname"]}

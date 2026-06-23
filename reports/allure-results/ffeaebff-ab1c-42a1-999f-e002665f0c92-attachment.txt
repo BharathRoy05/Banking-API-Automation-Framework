@@ -1,0 +1,2 @@
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:31:18] "POST /test/reset HTTP/1.1" 200 -
+[32mINFO    [0m werkzeug:_internal.py:97 127.0.0.1 - - [23/Jun/2026 19:31:18] "[31m[1mPOST /auth/login HTTP/1.1[0m" 400 -
